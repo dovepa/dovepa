@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dove! 
 
-I'm a 25-year-old full-stack web developer passionate about new technologies. 
+I'm a full-stack web developer passionate about new technologies. 
 
 👨‍💻 I enjoy working on a variety of web development projects and learning new skills. 
 
